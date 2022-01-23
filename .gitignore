@@ -1,0 +1,6 @@
+/.generated_files/
+/build/
+/dist/
+/lvgl/lv_appx/
+/lvgl/lv_app/
+/lvgl/
